@@ -1,1 +1,9 @@
-![image](https://github.com/krushna0103/Angular_Assignment-1/assets/98221735/74b137fa-561a-49ce-ac4a-28051c488164)
+1)Create two new Components (manually or with CLI): WarningAlert and SuccessAlert
+2)Output them beneath each other in the AppComponent
+3)Output a warning or success message in the Components
+4)Style the Components appropriately (maybe some red/ green text?)
+
+Use external or internal templates and styles!
+
+Feel free to create more components, nest them into each other or play around with different types of selectors!
+
